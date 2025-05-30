@@ -2,6 +2,8 @@
 
 요즘 온라인 커뮤니케이션에서 **비속어 정제**는 점점 더 중요한 이슈가 되고 있습니다. **Purgo**는 이 문제를 직접 다루는 웹 기반 체험 서비스로, 사용자가 직접 입력한 문장에서 **비속어를 감지하고 정제하는 기능**을 제공합니다.
 
+---
+
 # 🔧 **기술 스택 요약**
 
 - **프레임워크/언어**: React 18, TypeScript
@@ -18,6 +20,8 @@
 - **스크롤 인터랙션**: react-fullpage, @fullpage/react-fullpage
 - **이메일 발송**: emailjs-com, @emailjs/browser
 - **기타**: multer (파일 업로드용), global
+
+---
 
 # React 컴포넌트 아키텍처: Container-Presentational 패턴
 
