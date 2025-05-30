@@ -1,7 +1,9 @@
 패키지 설치 방법
+```
 npm install
 2. npm install @fullpage/react-fullpage
 3. npm install recharts
+```
 
 ---
 
