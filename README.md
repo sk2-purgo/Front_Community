@@ -1,3 +1,10 @@
+패키지 설치 방법
+npm install
+2. npm install @fullpage/react-fullpage
+3. npm install recharts
+
+---
+
 # 🚀 Purgo: 비속어 정제 체험 서비스 소개
 
 요즘 온라인 커뮤니케이션에서 **비속어 정제**는 점점 더 중요한 이슈가 되고 있습니다. **Purgo**는 이 문제를 직접 다루는 웹 기반 체험 서비스로, 사용자가 직접 입력한 문장에서 **비속어를 감지하고 정제하는 기능**을 제공합니다.
