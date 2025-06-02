@@ -1,5 +1,19 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=192&section=header&text=COMMUNITY%20FRONTEND&fontSize=65&animation=fadeIn&fontColor=FFF)
 
+<div align="center">
+
+![React](https://img.shields.io/badge/React-18-blue?logo=react)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=white)
+![React Router](https://img.shields.io/badge/React--Router-D0021B?logo=react-router&logoColor=white)
+![Styled Components](https://img.shields.io/badge/styled--components-DB7093?logo=styled-components&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer--Motion-EF0179?logo=framer&logoColor=white)
+![Axios](https://img.shields.io/badge/Axios-5A29E4?logo=axios&logoColor=white)
+![react-fullpage](https://img.shields.io/badge/react--fullpage-1E1E1E?logo=react&logoColor=white)
+
+</div>
+
+
 
 패키지 설치 방법
 ```
@@ -136,3 +150,20 @@ UI 컴포넌트는 "얼굴" 역할을 담당합니다. 받은 데이터를 예�
 - 코드 블록에 복사 버튼(`CopyButton`) 포함.
 - `styled-components`로 코드 박스 스타일 적용 (배경, 폰트 등).
 - 복사 기능을 통해 사용자 편의 제공.
+
+
+# 🧼 Purgo: AI Profanity Filtering Web App
+
+Purgo는 사용자 게시글 및 댓글의 욕설을 감지하고 정제된 언어로 대체해주는 웹 애플리케이션입니다.  
+해당 프로젝트는 오픈소스이며 GNU GPL v3 라이선스를 따릅니다.
+
+## 🧾 License
+
+This project is licensed under the **GNU General Public License v3.0**.
+
+- 자유롭게 소스코드를 사용할 수 있으며, 수정 및 배포도 가능합니다.
+- Purgo는 수익을 창출하지 않는 비영리 목적의 오픈소스 프로젝트입니다.
+- 단, 이 소스를 이용한 파생 프로젝트도 **동일한 GPLv3 조건**을 따라야 합니다.
+- 자세한 내용은 [LICENSE](./LICENSE) 파일을 참고하세요.
+
+⚠️ 이 프로젝트는 [fullPage.js](https://alvarotrigo.com/fullPage/)를 **GPLv3 라이선스 하에서 사용**하고 있습니다.
