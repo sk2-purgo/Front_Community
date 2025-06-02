@@ -1,3 +1,6 @@
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=192&section=header&text=COMMUNITY%20FRONTEND&fontSize=65&animation=fadeIn&fontColor=FFF)
+
+
 패키지 설치 방법
 ```
 npm install
