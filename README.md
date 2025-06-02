@@ -1,16 +1,14 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=192&section=header&text=COMMUNITY%20FRONTEND&fontSize=65&animation=fadeIn&fontColor=FFF)
 
 <div align="center">
-
-![React](https://img.shields.io/badge/React-18-blue?logo=react)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=white)
-![React Router](https://img.shields.io/badge/React--Router-D0021B?logo=react-router&logoColor=white)
-![Styled Components](https://img.shields.io/badge/styled--components-DB7093?logo=styled-components&logoColor=white)
-![Framer Motion](https://img.shields.io/badge/Framer--Motion-EF0179?logo=framer&logoColor=white)
-![Axios](https://img.shields.io/badge/Axios-5A29E4?logo=axios&logoColor=white)
-![react-fullpage](https://img.shields.io/badge/react--fullpage-1E1E1E?logo=react&logoColor=white)
-
+    <img src="https://img.shields.io/badge/React-18-blue?style=for-the-badge&logo=react&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React--Router-D0021B?style=for-the-badge&logo=react-router&logoColor=white"/>
+  <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Framer--Motion-EF0179?style=for-the-badge&logo=framer&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white"/>
+  <img src="https://img.shields.io/badge/react--fullpage-1E1E1E?style=for-the-badge&logo=react&logoColor=white"/>
 </div>
 
 
